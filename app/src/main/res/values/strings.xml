@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="editor_new_product">New Product</string>
+    <string name="action_save">Save</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="price_hint">Price</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="supplier_name_hint">Supplier Name</string>
+    <string name="supplier_phone_number_hint">Supplier Phone Number</string>
+    <string name="error_save">Error with saving product</string>
+    <string name="ok_save">Product saved with row id: %1$s</string>
+    <string name="table_contain">Product Table contain %1$s rows\n\n</string>
+</resources>
